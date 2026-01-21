@@ -21,4 +21,4 @@ Analyze real estate pricing trends before and after the COVID-19 pandemic and id
 - Real estate market demonstrates strong post-pandemic resilience
 
 ## Project File
-- Jupyter Notebook: `real-estate-pricing-post-pandemic.ipynb`
+- Jupyter Notebook: `Realestate.ipynb`
